@@ -1,0 +1,5 @@
+A1,Sold
+A2,Free
+A3,Free
+A4,Free
+A5,Free

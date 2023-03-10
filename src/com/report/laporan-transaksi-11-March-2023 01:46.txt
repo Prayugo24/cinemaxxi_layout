@@ -1,0 +1,4 @@
+=================== Laporan Transaksi ===================
+Total 1 kursi terjual dan 4 kursi tersedia.
+Transaksi:
+A1, 11 March 2023 01:46:00
